@@ -9,11 +9,11 @@
 
 - 🤝 My portfolio(you can download my cv there) [https://jiangyijia6.github.io/](https://jiangyijia6.github.io/)
 
-- 💬 Something I am interested in: in **UX, UI design**
+- 💬 Something I am interested in: in **back end developing**
 
 - 📫 How to reach me **yijia.qujiang@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+//<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
