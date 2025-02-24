@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Yijia Jiang</h1>
 <h3 align="center">A passionate developer from China</h3>
 
-- 🔭 I’m currently working on [Delivery App](https://github.com/Aetthera/DeliveryApp_FinalProject_AndroidMobileDev)
+- 🔭 I’m currently working on [VideoShringCommunity](https://github.com/JiangYiJia6/VideoSharingCommunity)
 
 - 🇨🇦/🇨🇳 I speak Chinese, English, French(in progress) **base in Montreal,Canada**
 
